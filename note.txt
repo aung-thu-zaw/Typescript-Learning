@@ -1,0 +1,26 @@
+========> Core Types <========
+number
+string
+boolean
+object
+array
+
+========> Special Types of Typescript <========
+any
+unknown
+tuples ( it's an array but it's fixed length array ) Eg. [number,string]
+enum
+union
+literal
+aliases
+void
+function type | callback function type ( eg. callback:() =>void )
+never ( never is another function type )
+
+==============================================
+
+1. Javascript is dynamically typed.( Resolved at runtime )
+2. TypeScript is statically typed.( Set during development )
+
+* TypeScript help during development. Not runtime.
+* The core primitive types in TypeScript are all lowercase! ( string, number | Not String, Not Number )
