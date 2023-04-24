@@ -24,3 +24,13 @@ never ( never is another function type )
 
 * TypeScript help during development. Not runtime.
 * The core primitive types in TypeScript are all lowercase! ( string, number | Not String, Not Number )
+
+**********************************************************************
+
+========> Typescript Configuration <========
+
+Generate Typescript Config => tsc --init
+
+Watch Mode ( Single File ) ==> tsc script.ts -w ( or ) tsc script.ts --watch
+
+Watch Mode ( Multiple File ) ==> tsc -w ( or ) tsc --watch
